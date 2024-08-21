@@ -3,7 +3,7 @@
 # Leigh Nash
 # Project Overview
  - source:  Chatgpt
-This project uses TensorFlow's Keras API to build a neural network model that predicts whether a student is likely to successfully repay their loan. The model is trained on a dataset with multiple features related to students' academic and financial background.
+# This project uses TensorFlow's Keras API to build a neural network model that predicts whether a student is likely to successfully repay their loan. The model is trained on a dataset with multiple features related to students' academic and financial background.
 
 ## Data Preparation
 
